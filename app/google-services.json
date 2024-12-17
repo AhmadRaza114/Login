@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459847942208",
+    "project_id": "login-d1acc",
+    "storage_bucket": "login-d1acc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459847942208:android:22bf285bc4ee4880075fa5",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsodhCnUnvCg_Htc481iuWiYZUVKBHIQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
